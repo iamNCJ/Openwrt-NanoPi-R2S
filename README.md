@@ -7,6 +7,7 @@ Self Tuned Openwrt for NanoPi R2S
 - Frp
 - WireGaurd
 - IPv6
-- other utilities (like KMS)
+- Docker
+- other utilities
 
 Please download the compiled binary in [release](https://github.com/iamNCJ/Openwrt-NanoPi-R2S/releases) or use the `.config` to compile one.
